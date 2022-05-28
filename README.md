@@ -13,7 +13,7 @@ Projeto de estudos para microserviços
 * Spring Eureka Netflix
 * spring Cloud
 * Spring Sleuth - https://docs.spring.io/spring-cloud-sleuth/docs/3.1.3/reference/html/project-features.html#features
-* PaperTrail - https://my.papertrailapp.com/(Gerenciamento de Logs)
+* PaperTrail - "https://my.papertrailapp.com/" (Gerenciamento de Logs)
 * Spring openFeign
 * intellij idea
 * Maven
